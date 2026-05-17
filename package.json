@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@arifszn/blog-js": "^2.0.6",
+    "@cspell/cspell-bundled-dicts": "^10.0.0",
     "@tailwindcss/postcss": "^4.1.11",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
