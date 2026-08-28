@@ -26,9 +26,8 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         projects: [
-          'MrAmazingFreelancer/gitprofile',
+          'MrAmazingFreelancer/GitProfile',
           'MrAmazingFreelancer/MyProjects-Dashboard',
-          'MrAmazingFreelancer/hometube',
           'MrAmazingFreelancer/MrAmazingFreelancer',
           'MrAmazingFreelancer/MrAmazingFreelancer.github.io',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -162,7 +161,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/MrAmazingFreelancer/gitprofile"
+      class="text-primary" href="https://github.com/MrAmazingFreelancer/GitProfile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
